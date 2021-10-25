@@ -1,4 +1,4 @@
-# BOT que posta um tweet ao variar a cotação do dolar!
+# BOT que posta um tweet ao variar a cotação do dólar!
 
 Com o intuito de aprender e fixar os conceitos de API's e do Node.JS, resolvi me desafiar e desenvolvi este projeto do zero.
 
